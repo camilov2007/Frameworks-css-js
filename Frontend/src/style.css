@@ -296,3 +296,8 @@ code {
     border-right-color: var(--border);
   }
 }
+@player componnts{
+  .cards{
+    @player
+} 
+    
